@@ -1,5 +1,5 @@
 #pragma once
 
-class vec2
+class vec3
 {
 };
